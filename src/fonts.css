@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'blogger_sansmedium';
+    src: url('../fonts/BloggerSansMedium.woff2') format('woff2'),
+        url('../fonts/BloggerSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'blogger_sansbold';
+    src: url('../fonts/BloggerSansBold.woff2') format('woff2'),
+        url('../fonts/BloggerSansBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pt_sansbold';
+    src: url('../fonts/PTS75F.woff2') format('woff2'),
+        url('../fonts/PTS75F.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pt_sansregular';
+    src: url('../fonts/ptsans.woff2') format('woff2'),
+        url('../fonts/ptsans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bebas_neuebold';
+    src: url('../fonts/BebasNeueBold.woff2') format('woff2'),
+        url('../fonts/BebasNeueBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
